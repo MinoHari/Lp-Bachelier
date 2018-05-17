@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Une Landing page pour cibler les Bacheliers, en parallèle avec le projet du la Sem 7 Day 4
+Lien heroku: https://fathomless-cove-10223.herokuapp.com/
 
-Things you may want to cover:
+@Hari
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
