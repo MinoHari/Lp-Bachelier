@@ -1,5 +1,5 @@
 # <p align="center" style="color:teal;">CREATION DU LANDING PAGE THP</p>
-### <p align="center" style="color:teal;">Jour 4 du Semaine 6</p>
+### <p align="center" style="color:teal;">Jour 4 du Semaine 7</p>
 <p align="center" style="color:teal;">(Equipe de SAYNA)</p>
 
 ***
